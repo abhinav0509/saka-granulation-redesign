@@ -22,4 +22,8 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('NFront/index-2');
 	}
+	public function Test()
+	{
+		$this->load->view('NFront/test');
+	}
 }

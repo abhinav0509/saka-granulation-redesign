@@ -533,9 +533,9 @@
         </div>
     </div>
 
-    <!-- Service Section  -->
+   <!-- Service Section -->
 
-    <div class="service-section section-padding pt-50 pb-100">
+    <!---<div class="service-section section-padding pt-50 pb-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="section-title">
@@ -603,14 +603,14 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
    
     
 
     <!-- Award Section  -->
 
-    <div class="award-section section-padding pt-0">
+    <!-- <div class="award-section section-padding pt-0">
         <div class="container">            
             <div class="award-wrap mt-30">
                 <div class="row mt-30 mb-30">
@@ -650,7 +650,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Testimonial Section  -->
 
@@ -722,7 +722,7 @@
     
     <!-- FAQ Section  -->
 
-    <div class="faq-section section-padding" data-background="assets/img/faq-bg.jpg">
+    <!-- <div class="faq-section section-padding" data-background="assets/img/faq-bg.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 col-lg-4">
@@ -800,7 +800,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <!-- Blog Section  -->
